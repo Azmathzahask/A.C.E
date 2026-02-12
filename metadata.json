@@ -1,0 +1,8 @@
+{
+  "name": "A.C.E (AI Career Evaluator)",
+  "description": "An AI-powered career guidance platform featuring speech-based video interviews, resume evaluation, and personalized learning plans.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
